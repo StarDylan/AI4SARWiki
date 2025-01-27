@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
-          }
-        ]
-      },
-      {
-        "id": "31d99888354ff2bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a1eeac42ef3ce44",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Requirements"
             }
           }
         ]
@@ -109,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Requirements"
             }
           },
           {
@@ -127,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Requirements"
             }
           },
           {
@@ -152,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Requirements.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Requirements"
             }
           },
           {
@@ -185,9 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a1eeac42ef3ce44",
+  "active": "4021ed0309db178a",
   "lastOpenFiles": [
     "Index.md",
+    "Requirements.md",
     "Welcome.md"
   ]
 }

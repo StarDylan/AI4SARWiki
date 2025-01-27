@@ -1,2 +1,7 @@
 
-Hi this is a test of the Git backup system
+## Purpose
+
+AI for Search and Rescue...
+
+## Project Details
+- [[Requirements]]
