@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"d48297d684f9db4b","type":"group","x":60,"y":-238,"width":860,"height":438,"label":"AI4SAR"},
+		{"id":"3744978371c2c91e","type":"text","text":"Ground Pounders","x":-466,"y":-196,"width":250,"height":60},
+		{"id":"84a3de6305eaeea7","type":"text","text":"Database","x":150,"y":-166,"width":250,"height":52,"color":"1"},
+		{"id":"a65e7ff951d71f9a","type":"text","text":"Database","x":520,"y":-114,"width":250,"height":52,"color":"1"},
+		{"id":"53034adae838ea88","type":"text","text":"AI Insights","x":120,"y":80,"width":250,"height":50},
+		{"id":"22e9f0d6f6071e47","x":-118,"y":-400,"width":268,"height":95,"color":"3","type":"text","text":"**!!!SAMPLE!!!**\n**Very much not complete**"}
+	],
+	"edges":[
+		{"id":"faa3f75567728760","fromNode":"3744978371c2c91e","fromSide":"right","toNode":"84a3de6305eaeea7","toSide":"left","label":"Clue Forms"},
+		{"id":"71b7774ed7670e6a","fromNode":"53034adae838ea88","fromSide":"left","toNode":"3744978371c2c91e","toSide":"bottom"}
+	]
+}

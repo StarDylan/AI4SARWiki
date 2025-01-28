@@ -8,6 +8,7 @@ AI for Search and Rescue's goal is to predict where to look and to improve the t
 2. Enrich the Real-Time Data with External Data Sources
 3. Apply AI to the Enriched Data to Improve Search Outcomes
 
+
 ## Project Details
 - [[Requirements]]
 
